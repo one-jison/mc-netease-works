@@ -1,0 +1,1746 @@
+{
+ "b0": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/ball_cue",
+  "type": "image",
+  "visible": true
+ },
+ "b1": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/ball_1",
+  "type": "image",
+  "visible": true
+ },
+ "b10": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/ball_10",
+  "type": "image",
+  "visible": true
+ },
+ "b11": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/ball_11",
+  "type": "image",
+  "visible": true
+ },
+ "b12": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/ball_12",
+  "type": "image",
+  "visible": true
+ },
+ "b13": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/ball_13",
+  "type": "image",
+  "visible": true
+ },
+ "b14": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/ball_14",
+  "type": "image",
+  "visible": true
+ },
+ "b15": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/ball_15",
+  "type": "image",
+  "visible": true
+ },
+ "b2": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/ball_2",
+  "type": "image",
+  "visible": true
+ },
+ "b3": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/ball_3",
+  "type": "image",
+  "visible": true
+ },
+ "b4": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/ball_4",
+  "type": "image",
+  "visible": true
+ },
+ "b5": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/ball_5",
+  "type": "image",
+  "visible": true
+ },
+ "b6": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/ball_6",
+  "type": "image",
+  "visible": true
+ },
+ "b7": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/ball_7",
+  "type": "image",
+  "visible": true
+ },
+ "b8": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/ball_8",
+  "type": "image",
+  "visible": true
+ },
+ "b9": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/ball_9",
+  "type": "image",
+  "visible": true
+ },
+ "main@common.base_screen": {
+  "absorbs_input": true,
+  "controls": [
+   {
+    "root@poolmain.root": {}
+   },
+   {
+    "shootBtn@poolmain.shootBtn": {}
+   },
+   {
+    "exitBtn@poolmain.exitBtn": {}
+   },
+   {
+    "resetBtn@poolmain.resetBtn": {}
+   },
+   {
+    "soloBtn@poolmain.soloBtn": {}
+   },
+   {
+    "aiBtn@poolmain.aiBtn": {}
+   },
+   {
+    "powerBg@poolmain.powerBg": {}
+   },
+   {
+    "powerFrame@poolmain.powerFrame": {}
+   },
+   {
+    "powLabel@poolmain.powLabel": {}
+   },
+   {
+    "powerFill@poolmain.powerFill": {}
+   },
+   {
+    "powerTouch@poolmain.powerTouch": {}
+   },
+   {
+    "spinBg@poolmain.spinBg": {}
+   },
+   {
+    "spinDot@poolmain.spinDot": {}
+   },
+   {
+    "spinTouch@poolmain.spinTouch": {}
+   },
+   {
+    "msgLabel@poolmain.msgLabel": {}
+   },
+   {
+    "modeTitle@poolmain.modeTitle": {}
+   }
+  ]
+ },
+ "modeTitle": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "font_size": "large",
+  "layer": 24,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "shadow": true,
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "text": "",
+  "text_alignment": "center",
+  "type": "label"
+ },
+ "msgLabel": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "font_size": "normal",
+  "layer": 24,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "shadow": true,
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "text": "",
+  "text_alignment": "center",
+  "type": "label"
+ },
+ "namespace": "poolmain",
+ "powerBg": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 2,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/power_bg",
+  "type": "image",
+  "visible": true
+ },
+ "powerFill": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 3,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/power_fill",
+  "type": "image",
+  "visible": true
+ },
+ "ring": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/aim_ring",
+  "type": "image",
+  "visible": false
+ },
+ "root": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "clips_children": false,
+  "controls": [
+   {
+    "table@poolmain.table": {}
+   },
+   {
+    "ball0@poolmain.b0": {}
+   },
+   {
+    "ball1@poolmain.b1": {}
+   },
+   {
+    "ball2@poolmain.b2": {}
+   },
+   {
+    "ball3@poolmain.b3": {}
+   },
+   {
+    "ball4@poolmain.b4": {}
+   },
+   {
+    "ball5@poolmain.b5": {}
+   },
+   {
+    "ball6@poolmain.b6": {}
+   },
+   {
+    "ball7@poolmain.b7": {}
+   },
+   {
+    "ball8@poolmain.b8": {}
+   },
+   {
+    "ball9@poolmain.b9": {}
+   },
+   {
+    "ball10@poolmain.b10": {}
+   },
+   {
+    "ball11@poolmain.b11": {}
+   },
+   {
+    "ball12@poolmain.b12": {}
+   },
+   {
+    "ball13@poolmain.b13": {}
+   },
+   {
+    "ball14@poolmain.b14": {}
+   },
+   {
+    "ball15@poolmain.b15": {}
+   },
+   {
+    "ring@poolmain.ring": {}
+   },
+   {
+    "aim0@poolmain.dot": {}
+   },
+   {
+    "aim1@poolmain.dot": {}
+   },
+   {
+    "aim2@poolmain.dot": {}
+   },
+   {
+    "aim3@poolmain.dot": {}
+   },
+   {
+    "aim4@poolmain.dot": {}
+   },
+   {
+    "aim5@poolmain.dot": {}
+   },
+   {
+    "aim6@poolmain.dot": {}
+   },
+   {
+    "aim7@poolmain.dot": {}
+   },
+   {
+    "aim8@poolmain.dot": {}
+   },
+   {
+    "aim9@poolmain.dot": {}
+   },
+   {
+    "aim10@poolmain.dot": {}
+   },
+   {
+    "aim11@poolmain.dot": {}
+   },
+   {
+    "aim12@poolmain.dot": {}
+   },
+   {
+    "aim13@poolmain.dot": {}
+   },
+   {
+    "aim14@poolmain.dot": {}
+   },
+   {
+    "aim15@poolmain.dot": {}
+   },
+   {
+    "aim16@poolmain.dot": {}
+   },
+   {
+    "aim17@poolmain.dot": {}
+   },
+   {
+    "aim18@poolmain.dot": {}
+   },
+   {
+    "aim19@poolmain.dot": {}
+   },
+   {
+    "aim20@poolmain.dot": {}
+   },
+   {
+    "aim21@poolmain.dot": {}
+   },
+   {
+    "aim2_0@poolmain.dot2": {}
+   },
+   {
+    "aim2_1@poolmain.dot2": {}
+   },
+   {
+    "aim2_2@poolmain.dot2": {}
+   },
+   {
+    "aim2_3@poolmain.dot2": {}
+   },
+   {
+    "aim2_4@poolmain.dot2": {}
+   },
+   {
+    "aim2_5@poolmain.dot2": {}
+   },
+   {
+    "aim2_6@poolmain.dot2": {}
+   },
+   {
+    "aim2_7@poolmain.dot2": {}
+   },
+   {
+    "aim2_8@poolmain.dot2": {}
+   },
+   {
+    "aim2_9@poolmain.dot2": {}
+   },
+   {
+    "tableTouch@poolmain.tableTouch": {}
+   }
+  ],
+  "layer": 1,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "100%",
+   "100%"
+  ],
+  "type": "panel"
+ },
+ "spinBg": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/spin_bg",
+  "type": "image",
+  "visible": true
+ },
+ "spinDot": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 4,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/spin_dot",
+  "type": "image",
+  "visible": true
+ },
+ "table": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/table",
+  "type": "image",
+  "visible": true
+ },
+ "shootBtn@common.button": {
+  "$control_alpha": 1.0,
+  "$default_color": [
+   1,
+   1,
+   1
+  ],
+  "$default_texture": "textures/ui/pool/btn_shoot",
+  "$hover_texture": "textures/ui/pool/btn_shoot_p",
+  "$is_new_nine_slice": false,
+  "$labelText": "",
+  "$label_color": [
+   1,
+   1,
+   1
+  ],
+  "$label_font_scale_factor": 1.0,
+  "$label_font_size": "large",
+  "$label_layer": 3,
+  "$label_offset": [
+   0,
+   0
+  ],
+  "$label_text": "",
+  "$nine_slice_buttom": 0,
+  "$nine_slice_left": 0,
+  "$nine_slice_right": 0,
+  "$nine_slice_top": 0,
+  "$nineslice_size": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "$pressed_button_name": "%poolmain.shootBtn",
+  "$pressed_texture": "textures/ui/pool/btn_shoot_p",
+  "$text_offset": [
+   0,
+   0
+  ],
+  "$texture_layer": 2,
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "button_mappings": [],
+  "clip_offset": [
+   0,
+   0
+  ],
+  "clips_children": false,
+  "controls": [
+   {
+    "default": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "$default_texture",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "hover": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "$hover_texture",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "pressed": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "$pressed_texture",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "button_label": {
+     "alpha": "$control_alpha",
+     "color": "$label_color",
+     "font_scale_factor": "$label_font_scale_factor",
+     "font_size": "$label_font_size",
+     "layer": "$label_layer",
+     "offset": [
+      0,
+      0
+     ],
+     "shadow": true,
+     "text": "$labelText",
+     "type": "label",
+     "visible": true,
+     "anchor_from": "center",
+     "anchor_to": "center",
+     "size": [
+      "100%+0px",
+      "100%+0px"
+     ],
+     "text_alignment": "center"
+    }
+   }
+  ],
+  "is_handle_button_move_event": false,
+  "layer": 20,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "12%+0px",
+   "9%+0px"
+  ],
+  "visible": true
+ },
+ "exitBtn@common.button": {
+  "$control_alpha": 1.0,
+  "$default_color": [
+   1,
+   1,
+   1
+  ],
+  "$default_texture": "textures/ui/pool/btn_exit",
+  "$hover_texture": "textures/ui/pool/btn_exit_p",
+  "$is_new_nine_slice": false,
+  "$labelText": "",
+  "$label_color": [
+   1,
+   1,
+   1
+  ],
+  "$label_font_scale_factor": 1.0,
+  "$label_font_size": "normal",
+  "$label_layer": 3,
+  "$label_offset": [
+   0,
+   0
+  ],
+  "$label_text": "",
+  "$nine_slice_buttom": 0,
+  "$nine_slice_left": 0,
+  "$nine_slice_right": 0,
+  "$nine_slice_top": 0,
+  "$nineslice_size": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "$pressed_button_name": "%poolmain.exitBtn",
+  "$pressed_texture": "textures/ui/pool/btn_exit_p",
+  "$text_offset": [
+   0,
+   0
+  ],
+  "$texture_layer": 2,
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "button_mappings": [],
+  "clip_offset": [
+   0,
+   0
+  ],
+  "clips_children": false,
+  "controls": [
+   {
+    "default": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "$default_texture",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "hover": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "$hover_texture",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "pressed": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "$pressed_texture",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "button_label": {
+     "alpha": "$control_alpha",
+     "color": "$label_color",
+     "font_scale_factor": "$label_font_scale_factor",
+     "font_size": "$label_font_size",
+     "layer": "$label_layer",
+     "offset": [
+      0,
+      0
+     ],
+     "shadow": true,
+     "text": "$labelText",
+     "type": "label",
+     "visible": true,
+     "anchor_from": "center",
+     "anchor_to": "center",
+     "size": [
+      "100%+0px",
+      "100%+0px"
+     ],
+     "text_alignment": "center"
+    }
+   }
+  ],
+  "is_handle_button_move_event": false,
+  "layer": 22,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "12%+0px",
+   "9%+0px"
+  ],
+  "visible": true
+ },
+ "resetBtn@common.button": {
+  "$control_alpha": 1.0,
+  "$default_color": [
+   1,
+   1,
+   1
+  ],
+  "$default_texture": "textures/ui/pool/btn_small",
+  "$hover_texture": "textures/ui/pool/btn_small_p",
+  "$is_new_nine_slice": false,
+  "$labelText": "",
+  "$label_color": [
+   1,
+   1,
+   1
+  ],
+  "$label_font_scale_factor": 1.0,
+  "$label_font_size": "small",
+  "$label_layer": 3,
+  "$label_offset": [
+   0,
+   0
+  ],
+  "$label_text": "",
+  "$nine_slice_buttom": 0,
+  "$nine_slice_left": 0,
+  "$nine_slice_right": 0,
+  "$nine_slice_top": 0,
+  "$nineslice_size": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "$pressed_button_name": "%poolmain.resetBtn",
+  "$pressed_texture": "textures/ui/pool/btn_small_p",
+  "$text_offset": [
+   0,
+   0
+  ],
+  "$texture_layer": 2,
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "button_mappings": [],
+  "clip_offset": [
+   0,
+   0
+  ],
+  "clips_children": false,
+  "controls": [
+   {
+    "default": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "$default_texture",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "hover": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "$hover_texture",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "pressed": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "$pressed_texture",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "button_label": {
+     "alpha": "$control_alpha",
+     "color": "$label_color",
+     "font_scale_factor": "$label_font_scale_factor",
+     "font_size": "$label_font_size",
+     "layer": "$label_layer",
+     "offset": [
+      0,
+      0
+     ],
+     "shadow": true,
+     "text": "$labelText",
+     "type": "label",
+     "visible": true,
+     "anchor_from": "center",
+     "anchor_to": "center",
+     "size": [
+      "100%+0px",
+      "100%+0px"
+     ],
+     "text_alignment": "center"
+    }
+   }
+  ],
+  "is_handle_button_move_event": false,
+  "layer": 22,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "12%+0px",
+   "9%+0px"
+  ],
+  "visible": true
+ },
+ "soloBtn@common.button": {
+  "$control_alpha": 1.0,
+  "$default_color": [
+   1,
+   1,
+   1
+  ],
+  "$default_texture": "textures/ui/pool/btn_exit",
+  "$hover_texture": "textures/ui/pool/btn_exit_p",
+  "$is_new_nine_slice": false,
+  "$labelText": "",
+  "$label_color": [
+   1,
+   1,
+   1
+  ],
+  "$label_font_scale_factor": 1.0,
+  "$label_font_size": "normal",
+  "$label_layer": 3,
+  "$label_offset": [
+   0,
+   0
+  ],
+  "$label_text": "",
+  "$nine_slice_buttom": 0,
+  "$nine_slice_left": 0,
+  "$nine_slice_right": 0,
+  "$nine_slice_top": 0,
+  "$nineslice_size": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "$pressed_button_name": "%poolmain.soloBtn",
+  "$pressed_texture": "textures/ui/pool/btn_exit_p",
+  "$text_offset": [
+   0,
+   0
+  ],
+  "$texture_layer": 2,
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "button_mappings": [],
+  "clip_offset": [
+   0,
+   0
+  ],
+  "clips_children": false,
+  "controls": [
+   {
+    "default": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "$default_texture",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "hover": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "$hover_texture",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "pressed": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "$pressed_texture",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "button_label": {
+     "alpha": "$control_alpha",
+     "color": "$label_color",
+     "font_scale_factor": "$label_font_scale_factor",
+     "font_size": "$label_font_size",
+     "layer": "$label_layer",
+     "offset": [
+      0,
+      0
+     ],
+     "shadow": true,
+     "text": "$labelText",
+     "type": "label",
+     "visible": true,
+     "anchor_from": "center",
+     "anchor_to": "center",
+     "size": [
+      "100%+0px",
+      "100%+0px"
+     ],
+     "text_alignment": "center"
+    }
+   }
+  ],
+  "is_handle_button_move_event": false,
+  "layer": 22,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "12%+0px",
+   "9%+0px"
+  ],
+  "visible": true
+ },
+ "aiBtn@common.button": {
+  "$control_alpha": 1.0,
+  "$default_color": [
+   1,
+   1,
+   1
+  ],
+  "$default_texture": "textures/ui/pool/btn_exit",
+  "$hover_texture": "textures/ui/pool/btn_exit_p",
+  "$is_new_nine_slice": false,
+  "$labelText": "",
+  "$label_color": [
+   1,
+   1,
+   1
+  ],
+  "$label_font_scale_factor": 1.0,
+  "$label_font_size": "normal",
+  "$label_layer": 3,
+  "$label_offset": [
+   0,
+   0
+  ],
+  "$label_text": "",
+  "$nine_slice_buttom": 0,
+  "$nine_slice_left": 0,
+  "$nine_slice_right": 0,
+  "$nine_slice_top": 0,
+  "$nineslice_size": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "$pressed_button_name": "%poolmain.aiBtn",
+  "$pressed_texture": "textures/ui/pool/btn_exit_p",
+  "$text_offset": [
+   0,
+   0
+  ],
+  "$texture_layer": 2,
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "button_mappings": [],
+  "clip_offset": [
+   0,
+   0
+  ],
+  "clips_children": false,
+  "controls": [
+   {
+    "default": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "$default_texture",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "hover": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "$hover_texture",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "pressed": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "$pressed_texture",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "button_label": {
+     "alpha": "$control_alpha",
+     "color": "$label_color",
+     "font_scale_factor": "$label_font_scale_factor",
+     "font_size": "$label_font_size",
+     "layer": "$label_layer",
+     "offset": [
+      0,
+      0
+     ],
+     "shadow": true,
+     "text": "$labelText",
+     "type": "label",
+     "visible": true,
+     "anchor_from": "center",
+     "anchor_to": "center",
+     "size": [
+      "100%+0px",
+      "100%+0px"
+     ],
+     "text_alignment": "center"
+    }
+   }
+  ],
+  "is_handle_button_move_event": false,
+  "layer": 22,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "12%+0px",
+   "9%+0px"
+  ],
+  "visible": true
+ },
+ "tableTouch@common.button": {
+  "$control_alpha": 1.0,
+  "$default_color": [
+   1,
+   1,
+   1
+  ],
+  "$default_texture": "textures/ui/pool/blank",
+  "$hover_texture": "textures/ui/pool/blank",
+  "$is_new_nine_slice": false,
+  "$labelText": "",
+  "$label_color": [
+   1,
+   1,
+   1
+  ],
+  "$label_font_scale_factor": 1.0,
+  "$label_font_size": "normal",
+  "$label_layer": 3,
+  "$label_offset": [
+   0,
+   0
+  ],
+  "$label_text": "",
+  "$nine_slice_buttom": 0,
+  "$nine_slice_left": 0,
+  "$nine_slice_right": 0,
+  "$nine_slice_top": 0,
+  "$nineslice_size": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "$pressed_button_name": "%poolmain.tableTouch",
+  "$pressed_texture": "textures/ui/pool/blank",
+  "$text_offset": [
+   0,
+   0
+  ],
+  "$texture_layer": 2,
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "button_mappings": [],
+  "clip_offset": [
+   0,
+   0
+  ],
+  "clips_children": false,
+  "controls": [
+   {
+    "default": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "textures/ui/pool/blank",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "hover": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "textures/ui/pool/blank",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "pressed": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "textures/ui/pool/blank",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "button_label": {
+     "alpha": "$control_alpha",
+     "color": "$label_color",
+     "font_scale_factor": "$label_font_scale_factor",
+     "font_size": "$label_font_size",
+     "layer": "$label_layer",
+     "offset": "$label_offset",
+     "shadow": true,
+     "text": "$labelText",
+     "type": "label",
+     "visible": true
+    }
+   }
+  ],
+  "is_handle_button_move_event": true,
+  "layer": 8,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "12%+0px",
+   "9%+0px"
+  ],
+  "visible": true
+ },
+ "powerTouch@common.button": {
+  "$control_alpha": 1.0,
+  "$default_color": [
+   1,
+   1,
+   1
+  ],
+  "$default_texture": "textures/ui/pool/blank",
+  "$hover_texture": "textures/ui/pool/blank",
+  "$is_new_nine_slice": false,
+  "$labelText": "",
+  "$label_color": [
+   1,
+   1,
+   1
+  ],
+  "$label_font_scale_factor": 1.0,
+  "$label_font_size": "normal",
+  "$label_layer": 3,
+  "$label_offset": [
+   0,
+   0
+  ],
+  "$label_text": "",
+  "$nine_slice_buttom": 0,
+  "$nine_slice_left": 0,
+  "$nine_slice_right": 0,
+  "$nine_slice_top": 0,
+  "$nineslice_size": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "$pressed_button_name": "%poolmain.powerTouch",
+  "$pressed_texture": "textures/ui/pool/blank",
+  "$text_offset": [
+   0,
+   0
+  ],
+  "$texture_layer": 2,
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "button_mappings": [],
+  "clip_offset": [
+   0,
+   0
+  ],
+  "clips_children": false,
+  "controls": [
+   {
+    "default": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "textures/ui/pool/blank",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "hover": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "textures/ui/pool/blank",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "pressed": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "textures/ui/pool/blank",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "button_label": {
+     "alpha": "$control_alpha",
+     "color": "$label_color",
+     "font_scale_factor": "$label_font_scale_factor",
+     "font_size": "$label_font_size",
+     "layer": "$label_layer",
+     "offset": "$label_offset",
+     "shadow": true,
+     "text": "$labelText",
+     "type": "label",
+     "visible": true
+    }
+   }
+  ],
+  "is_handle_button_move_event": true,
+  "layer": 6,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "12%+0px",
+   "9%+0px"
+  ],
+  "visible": true
+ },
+ "spinTouch@common.button": {
+  "$control_alpha": 1.0,
+  "$default_color": [
+   1,
+   1,
+   1
+  ],
+  "$default_texture": "textures/ui/pool/blank",
+  "$hover_texture": "textures/ui/pool/blank",
+  "$is_new_nine_slice": false,
+  "$labelText": "",
+  "$label_color": [
+   1,
+   1,
+   1
+  ],
+  "$label_font_scale_factor": 1.0,
+  "$label_font_size": "normal",
+  "$label_layer": 3,
+  "$label_offset": [
+   0,
+   0
+  ],
+  "$label_text": "",
+  "$nine_slice_buttom": 0,
+  "$nine_slice_left": 0,
+  "$nine_slice_right": 0,
+  "$nine_slice_top": 0,
+  "$nineslice_size": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "$pressed_button_name": "%poolmain.spinTouch",
+  "$pressed_texture": "textures/ui/pool/blank",
+  "$text_offset": [
+   0,
+   0
+  ],
+  "$texture_layer": 2,
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "button_mappings": [],
+  "clip_offset": [
+   0,
+   0
+  ],
+  "clips_children": false,
+  "controls": [
+   {
+    "default": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "textures/ui/pool/blank",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "hover": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "textures/ui/pool/blank",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "pressed": {
+     "alpha": "$control_alpha",
+     "is_new_nine_slice": "$is_new_nine_slice",
+     "layer": "$texture_layer",
+     "nine_slice_buttom": "$nine_slice_buttom",
+     "nine_slice_left": "$nine_slice_left",
+     "nine_slice_right": "$nine_slice_right",
+     "nine_slice_top": "$nine_slice_top",
+     "nineslice_size": "$nineslice_size",
+     "texture": "textures/ui/pool/blank",
+     "type": "image",
+     "controls": []
+    }
+   },
+   {
+    "button_label": {
+     "alpha": "$control_alpha",
+     "color": "$label_color",
+     "font_scale_factor": "$label_font_scale_factor",
+     "font_size": "$label_font_size",
+     "layer": "$label_layer",
+     "offset": "$label_offset",
+     "shadow": true,
+     "text": "$labelText",
+     "type": "label",
+     "visible": true
+    }
+   }
+  ],
+  "is_handle_button_move_event": true,
+  "layer": 6,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "12%+0px",
+   "9%+0px"
+  ],
+  "visible": true
+ },
+ "powerFrame": {
+  "type": "image",
+  "texture": "textures/ui/pool/power_frame",
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "layer": 1,
+  "visible": true
+ },
+ "powLabel": {
+  "type": "label",
+  "text": "",
+  "color": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "font_size": "normal",
+  "shadow": true,
+  "text_alignment": "center",
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "layer": 5,
+  "visible": true
+ },
+ "dot": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/aim_dot",
+  "type": "image",
+  "visible": false
+ },
+ "dot2": {
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "layer": 1,
+  "nineslice_size": 0,
+  "offset": [
+   "0px",
+   "0px"
+  ],
+  "size": [
+   "0px",
+   "0px"
+  ],
+  "texture": "textures/ui/pool/aim_dot2",
+  "type": "image",
+  "visible": false
+ }
+}

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "eggtart:recipe_box_1"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "P P",
+      "PTP",
+      " B "
+    ],
+    "key": {
+      "P": {
+        "item": "minecraft:paper"
+      },
+      "T": {
+        "item": "eggtart:long_tart"
+      },
+      "B": {
+        "item": "minecraft:planks",
+        "data": 1
+      }
+    },
+    "result": {
+      "item": "eggtart:eggtart_box",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

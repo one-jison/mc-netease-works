@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "timerewind:freeze_potion",
+      "category": "items"
+    },
+    "components": {
+      "minecraft:icon": "timerewind_freeze_potion",
+      "minecraft:hover_text_color": "aqua"
+    }
+  }
+}

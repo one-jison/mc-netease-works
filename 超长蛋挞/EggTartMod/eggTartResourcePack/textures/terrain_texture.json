@@ -1,0 +1,21 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "eggtart:eggtart_box_body": {
+      "textures": "textures/blocks/eggtart_box_body"
+    },
+    "eggtart:eggtart_box_handle": {
+      "textures": "textures/blocks/eggtart_box_handle"
+    },
+    "eggtart:eggtart_tart_tex": {
+      "textures": "textures/blocks/eggtart_tart"
+    },
+    "eggtart:eggtart_box_item": {
+      "textures": "textures/blocks/eggtart_box_item"
+    },
+    "eggtart:eggtart_tart_item": {
+      "textures": "textures/blocks/eggtart_tart_item"
+    }
+  }
+}

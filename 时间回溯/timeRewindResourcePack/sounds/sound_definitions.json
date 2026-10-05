@@ -1,0 +1,20 @@
+{
+  "format_version": "1.14.0",
+  "dy_load_list": [
+    "sounds/timerewind/rewind"
+  ],
+  "sound_definitions": {
+    "timerewind.rewind": {
+      "category": "player",
+      "sounds": [
+        {
+          "name": "sounds/timerewind/rewind",
+          "volume": 1.0,
+          "pitch": 1.0,
+          "stream": false,
+          "load_on_low_memory": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "eggtart:long_tart",
+      "category": "nature"
+    },
+    "components": {
+      "minecraft:icon": "eggtart:long_tart",
+      "minecraft:hover_text_color": "gold"
+    }
+  }
+}

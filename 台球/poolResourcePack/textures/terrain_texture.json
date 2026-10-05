@@ -1,0 +1,15 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "pool:pool_felt": {
+      "textures": "textures/blocks/pool_table_felt"
+    },
+    "pool:pool_wood": {
+      "textures": "textures/blocks/pool_table_wood"
+    },
+    "pool:pool_item": {
+      "textures": "textures/blocks/pool_table_item"
+    }
+  }
+}

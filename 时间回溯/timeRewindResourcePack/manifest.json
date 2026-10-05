@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "时间回溯 资源包",
+    "description": "时间回溯 - 回溯药水图标 / 屏幕左侧的回溯按钮 / 静止药水图标 / 屏幕右侧的静止按钮 / 右上角药水倒计时",
+    "uuid": "cd98dde6-7ddd-44f8-856d-e6c6f7679b1f",
+    "version": [
+      1,
+      0,
+      19
+    ],
+    "min_engine_version": [
+      1,
+      18,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "时间回溯 资源模块",
+      "uuid": "5c2706e0-46d0-4963-b85b-1df69ee77880",
+      "version": [
+        1,
+        0,
+        19
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "ui_defs": [
+    "ui/pool_main.json",
+    "ui/pool_hud.json"
+  ]
+}

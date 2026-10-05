@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "超长蛋挞 行为包",
+    "description": "超长蛋挞 - 放下包装盒，撸掉包装盒原地变成蛋挞，再撸掉蛋挞就能吃",
+    "uuid": "e3b2115f-5b1d-4ae2-b2bd-c0e5abbf430a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      18,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "description": "超长蛋挞 行为模块",
+      "uuid": "724c0e63-da88-4033-bafd-2ad68549e85d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

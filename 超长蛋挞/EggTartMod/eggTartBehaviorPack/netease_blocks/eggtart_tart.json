@@ -1,0 +1,51 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "eggtart:eggtart_tart"
+    },
+    "components": {
+      "minecraft:destroy_time": {
+        "value": 2.0
+      },
+      "minecraft:block_light_absorption": {
+        "value": 0
+      },
+      "minecraft:loot": {
+        "table": "loot_tables/blocks/eggtart_tart.json"
+      },
+      "netease:aabb": {
+        "collision": {
+          "min": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "max": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "clip": {
+          "min": [
+            -1.0,
+            0.0,
+            0.25
+          ],
+          "max": [
+            2.0,
+            0.5,
+            0.75
+          ]
+        }
+      },
+      "netease:solid": {
+        "value": false
+      },
+      "netease:pathable": {
+        "value": true
+      }
+    }
+  }
+}

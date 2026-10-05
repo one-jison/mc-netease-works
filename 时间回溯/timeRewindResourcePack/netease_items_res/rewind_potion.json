@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "timerewind:rewind_potion",
+      "category": "items"
+    },
+    "components": {
+      "minecraft:icon": "timerewind_rewind_potion",
+      "minecraft:hover_text_color": "light_purple"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "pool:recipe_pool_table"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "WWW",
+      "GFG",
+      "L L"
+    ],
+    "key": {
+      "W": {
+        "item": "minecraft:planks",
+        "data": 0,
+        "count": 1
+      },
+      "G": {
+        "item": "minecraft:green_wool",
+        "data": 0,
+        "count": 1
+      },
+      "F": {
+        "item": "minecraft:fence",
+        "data": 0,
+        "count": 1
+      },
+      "L": {
+        "item": "minecraft:log",
+        "data": 0,
+        "count": 1
+      }
+    },
+    "result": {
+      "item": "pool:pool_table",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

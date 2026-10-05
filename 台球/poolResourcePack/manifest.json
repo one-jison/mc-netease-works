@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "台球 资源包",
+    "description": "台球 - 台球桌 3D 模型、贴图、台球界面与球的贴图",
+    "uuid": "6cf56668-8e25-4a4e-8412-e49a9f4a12f1",
+    "version": [
+      1,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      18,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "台球 资源模块",
+      "uuid": "cedf0369-e897-40fc-80f1-d0e567b5ab2f",
+      "version": [
+        1,
+        0,
+        1
+      ]
+    }
+  ]
+}
