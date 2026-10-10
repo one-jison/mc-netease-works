@@ -1,5 +1,0 @@
-## 时间回溯
-item.timerewind:rewind_potion.name=回溯
-item.timerewind:rewind_potion.desc=喝下后屏幕左侧出现回溯按钮
-item.timerewind:freeze_potion.name=静止
-item.timerewind:freeze_potion.desc=喝下后屏幕右侧出现静止按钮，按一下身边的东西全部停住，再按一下恢复（三分钟）
